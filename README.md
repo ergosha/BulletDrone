@@ -2,6 +2,16 @@
 
 **BulletDrone** is a Kotlin-based mobile application designed for a shooting range to record shooters’ training or competition sessions. It integrates with **Parrot SDK** for drone control and **Firebase** (Firestore and Storage) for user data management and cloud storage.
 
+## My Role & Contributions
+- Developed core Android application logic using Kotlin
+- Integrated Parrot SDK for drone control, live video feed, and recording
+- Implemented Firebase Firestore integration to fetch shooter profiles dynamically
+- Designed and implemented Firebase Storage upload flow for large video files
+- Created structured file-naming and directory logic for cloud storage
+- Worked with asynchronous data flows and SDK callbacks in a real-time environment
+
+This project gave me hands-on experience with hardware SDKs, real-time video handling, and cloud-based data management in a production-like setting.
+
 ---
 
 ## Features
